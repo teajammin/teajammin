@@ -1,16 +1,19 @@
-## Hi there 👋
+# hi, I'm Thea 👾
 
-<!--
-**teajammin/teajammin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS & Management student at King's College London, seeking a year-in-industry placement in games.
 
-Here are some ideas to get you started:
+I make party games — the kind you play with friends in a room.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## projects
+- **[Jabbloo](https://github.com/teajammin/Jabbloo)**  multiplayer party game, playable in browser [live demo -> coming soon] , made using claude code
+- **NAME TBD* another party game, logistics in progress, shipping Oct 2026, to be done without claude code
+
+## currently
+- designing social, chaotic, laugh-out-loud games. 
+- looking for placement year options in game dev studios 
+- 📍 London
+
+## reach me
+(https://www.linkedin.com/in/thea-zeitoun-1a486a1b5/) · theazeitoun@gmail.com
+
+
