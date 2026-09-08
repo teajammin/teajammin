@@ -1,6 +1,6 @@
 # hi, I'm Thea 👾
 
-CS & Management student at King's College London, seeking a year-in-industry placement in games.
+CS & Management student at King's College London, seeking a year-in-industry placement in games or niche apps.
 
 I make party games — the kind you play with friends in a room.
 
